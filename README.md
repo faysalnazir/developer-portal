@@ -2,7 +2,7 @@
 
 ## Development workflow
 
-### Setup
+### Docker Setup
 
 This project uses [Docker](https://www.docker.com/). The easiest way to get started is to install [Docker Desktop](https://hub.docker.com/search?q=Docker%20Desktop&type=edition&offering=community) which provides the `docker` and `docker-compose` commands.
 
